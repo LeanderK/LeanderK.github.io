@@ -1,0 +1,45 @@
+primary_name: "Leander Kurscheidt"
+secondary_name: ""
+navbar_name: "Leander Kurscheidt"
+
+positions:
+- name: PhD Student in Machine Learning
+- name: School of Informatics, University of Edinburgh
+
+email: "L.Kurscheidt@sms.ed.ac.uk"
+gscholar: "https://scholar.google.com/citations?user=SAXsBIYAAAAJ&hl=en"
+github: LeanderK
+# orcid: 0000-0000-0000-0000
+
+short_bio_text_justify: false
+short_bio: >-
+  <p>
+    I am a PhD student at the <a href="https://informatics.ed.ac.uk/" target="_blank">School of Informatics</a>,
+    University of Edinburgh and part of the <a href="https://april-tools.github.io" target="_blank">APRIL Lab</a>.
+    I am primarily supervised by <a href="http://nolovedeeplearning.com" target="_blank">Antonio Vergari</a>,
+    who leads the lab, with <a href="https://michaelgutmann.github.io" target="_blank">Michael U. Gutmann</a>
+    as my secondary advisor.
+  </p>
+  <p>
+    I mainly work on probabilistic machine learning. Currently, I am interesting in making probabilistic predictions obey rules, so guaranteeing that the probability mass of the prediction only covers the space that is allowed by the rules. In practice, this means that I think a lot about how to calculate integrals over non-standard domains efficiently and exactly. But in general, i am open minded and curios!
+  </p>
+  <p>
+    This line of work led to <em>A Probabilistic Neuro-symbolic Layer for Algebraic Constraint Satisfaction</em>,
+    which received the runner-up best student paper award at UAI 2025.
+  </p>
+  <p>
+    My code is on <a href="https://github.com/LeanderK" target="_blank">GitHub</a>. Please reach out!
+  </p>
+
+portrait_url: /assets/images/photos/leander-kurscheidt.jpeg
+
+education:
+- name: University of Edinburgh
+  position: PhD in Informatics
+  date: 2024 - 2027
+- name: Eberhard Karls University of Tuebingen
+  position: MS in Informatics
+  date: 2019 - 2023
+- name: Karlsruhe Institute of Technology
+  position: Undergraduate studies in Informatics
+  date: 2015 - 2019
