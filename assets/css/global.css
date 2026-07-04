@@ -198,7 +198,7 @@ a:hover {
 .border-gray,
 .border-top,
 .border-bottom {
-    border-color: var(--border-soft) !important;
+    border-color: #4c935f !important;
 }
 
 .badge-publication.badge-success {
