@@ -53,7 +53,7 @@ h1, h2, h3, h4, h5, h6,
 .sticky-top .card .email-text,
 .sticky-top .card a,
 .sticky-top .card .small {
-    color: #1f161f;
+    color: #181219;
 }
 
 .sticky-top .card .card-body {
@@ -125,6 +125,15 @@ h1, h2, h3, h4, h5, h6,
     font-weight: 400;
 }
 
+p,
+li,
+.small,
+.media-body,
+.card-body,
+.abstract-body {
+    color: #181219;
+}
+
 .text-profile-bio a {
     font-weight: 600;
 }
@@ -144,6 +153,10 @@ a:visited,
 .text-right a,
 h6 a {
     color: var(--link-color) !important;
+}
+
+.abstract-links a {
+    font-weight: 700;
 }
 
 .text-profile-bio a:hover,
@@ -219,6 +232,12 @@ a:hover {
 
 .text-muted {
     color: var(--text-muted) !important;
+}
+
+.about-card .text-muted,
+.about-card p.text-muted,
+.about-card .small.text-muted {
+    color: #181219 !important;
 }
 
 .btn-primary {
