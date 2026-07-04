@@ -21,11 +21,11 @@ short_bio: >-
     as my secondary advisor.
   </p>
   <p>
-    I mainly work on probabilistic machine learning. Currently, I am interesting in making probabilistic predictions obey rules, so guaranteeing that the probability mass of the prediction only covers the space that is allowed by the rules. In practice, this means that I think a lot about how to calculate integrals over non-standard domains efficiently and exactly. But in general, i am open minded and curios!
+    I mainly work on <strong>probabilistic machine learning</strong>. Currently, I am interesting in making <strong>probabilistic predictions obey rules</strong>, so <strong>guaranteeing</strong> that the probability mass of the prediction only <strong>covers the space</strong> that is <strong>allowed by the rules</strong>. In practice, this means that I think a lot about how to calculate integrals over non-standard domains efficiently and exactly. But in general, i am open minded and curios!
   </p>
   <p>
-    This line of work led to <em>A Probabilistic Neuro-Symbolic Layer For Algebraic Constraint Satisfaction</em>,
-    which received the runner-up best student paper award at UAI 2025.
+    This line of work led to <strong>A Probabilistic Neuro-Symbolic Layer For Algebraic Constraint Satisfaction</strong>,
+    which received the <strong>runner-up best student paper award</strong> at UAI 2025.
   </p>
   <p>
     My code is on <a href="https://github.com/LeanderK" target="_blank">GitHub</a>. Please do not hesitate to reach out to me via email if you have any questions or want to collaborate!

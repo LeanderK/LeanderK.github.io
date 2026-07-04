@@ -2,7 +2,7 @@
 :root {
     --accent: #f39ae2;
     --accent-strong: #d85bc0;
-    --accent-deep: #00000;
+    --accent-deep: #181219;
     --accent-soft: #fdf2fa;
     --border-soft: #efd8e9;
     --page-bg: #f9f4f8;
@@ -18,12 +18,16 @@ body {
     font-family: "Lato", sans-serif;
     font-weight: 400;
     padding-top: 5.0rem;
-    color: #2f2330;
+    color: #181219;
 }
 
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
     font-weight: 700;
+}
+
+.text-profile-bio strong {
+    font-weight: 600;
 }
 
 .card {
