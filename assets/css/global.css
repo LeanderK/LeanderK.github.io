@@ -1,11 +1,11 @@
 @charset "utf-8";
 :root {
-    --accent: #f39ae2;
+    --accent: #ce00bf;
     --accent-strong: #d85bc0;
     --accent-deep: #181219;
     --accent-soft: #fdf2fa;
     --border-soft: #efd8e9;
-    --page-bg: #f9f4f8;
+    --page-bg: #f9f9f9;
     --text-muted: #6f5a6d;
     --link-color: #ce00bf;
 }
@@ -180,15 +180,21 @@ a:hover {
 }
 
 .navbar-light .navbar-nav .nav-link {
-    color: rgba(47, 35, 48, 0.8);
+    /* color: rgba(47, 35, 48, 0.8); */
+    color: #f9f9f9;
 }
 
 .navbar-light .navbar-nav .active > .nav-link,
 .navbar-light .navbar-nav .nav-link.active,
 .navbar-light .navbar-nav .nav-link.show,
 .navbar-light .navbar-nav .show > .nav-link {
-    color: var(--accent-deep);
+    /* color: var(--accent-deep); */
+    color: #f9f9f9;
     font-weight: 700;
+}
+
+.navbar-light .navbar-brand {
+    color: #f9f9f9;
 }
 
 .bg-white {
@@ -208,7 +214,8 @@ a:hover {
 
 .badge-publication.badge-warning {
     background-color: var(--accent);
-    color: #4d2a46;
+    /* color: #4d2a46; */
+    color: #f9f9f9;
 }
 
 .badge-publication.badge-secondary {
